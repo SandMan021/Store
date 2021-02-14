@@ -1,0 +1,9 @@
+E:\C# Angular store\skinet\Core\bin\Debug\netstandard2.0\Core.deps.json
+E:\C# Angular store\skinet\Core\bin\Debug\netstandard2.0\Core.dll
+E:\C# Angular store\skinet\Core\bin\Debug\netstandard2.0\Core.pdb
+E:\C# Angular store\skinet\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+E:\C# Angular store\skinet\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+E:\C# Angular store\skinet\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+E:\C# Angular store\skinet\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+E:\C# Angular store\skinet\Core\obj\Debug\netstandard2.0\Core.dll
+E:\C# Angular store\skinet\Core\obj\Debug\netstandard2.0\Core.pdb
