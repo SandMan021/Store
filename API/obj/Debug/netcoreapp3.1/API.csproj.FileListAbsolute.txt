@@ -63,3 +63,5 @@ E:\C# Angular store\skinet\API\bin\Debug\netcoreapp3.1\Core.dll
 E:\C# Angular store\skinet\API\bin\Debug\netcoreapp3.1\Infrastructure.dll
 E:\C# Angular store\skinet\API\bin\Debug\netcoreapp3.1\Infrastructure.pdb
 E:\C# Angular store\skinet\API\bin\Debug\netcoreapp3.1\Core.pdb
+E:\C# Angular store\skinet\API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\C# Angular store\skinet\API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
