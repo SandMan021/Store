@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C# Angular store\\skinet\\Core\\Core.csproj": {}
+    "E:\\CSharpAngularStore\\skinet\\Core\\Core.csproj": {}
   },
   "projects": {
-    "E:\\C# Angular store\\skinet\\Core\\Core.csproj": {
+    "E:\\CSharpAngularStore\\skinet\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C# Angular store\\skinet\\Core\\Core.csproj",
+        "projectUniqueName": "E:\\CSharpAngularStore\\skinet\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "E:\\C# Angular store\\skinet\\Core\\Core.csproj",
+        "projectPath": "E:\\CSharpAngularStore\\skinet\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\Milos\\.nuget\\packages\\",
-        "outputPath": "E:\\C# Angular store\\skinet\\Core\\obj\\",
+        "outputPath": "E:\\CSharpAngularStore\\skinet\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Milos\\AppData\\Roaming\\NuGet\\NuGet.Config"

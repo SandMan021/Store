@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aT3I7727LcbKThIF/rA7golKvV+zK4VBbleu0v3wno2KPfGCyPtJgq1rm3/sJ6C4fD+hXYQBqR8ihYl9vKqIhg==",
+  "dgSpecHash": "GgDF9Ve5hHLMH1IGXtgSJSd1ZUua1rPnXwzSscbH0nGNpKZqDOGdGgorrJTzNzexAstiLPTzq7rraRYedc6qIA==",
   "success": true,
-  "projectFilePath": "E:\\C# Angular store\\skinet\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "E:\\CSharpAngularStore\\skinet\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Milos\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Milos\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

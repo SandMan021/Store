@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vWJa16i+/3TaGqCxBu/MIclkvPm/EQkvwA3YPGWoZFd0Vn15jRIussw6ET3pBkeUX3fr+kplGDdQlFamZOuF6w==",
+  "dgSpecHash": "C4sNWkumJZ2rIVxApK+P/G/EH8KRK1+4hRyfTIcAp1GCrpqWXMBapkrR6QV+MX0l/alvgiuIxjAjYZk0pSTlQg==",
   "success": true,
-  "projectFilePath": "E:\\C# Angular store\\skinet\\Core\\Core.csproj",
+  "projectFilePath": "E:\\CSharpAngularStore\\skinet\\Core\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Milos\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Milos\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

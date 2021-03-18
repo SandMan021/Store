@@ -1481,11 +1481,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C# Angular store\\skinet\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "E:\\CSharpAngularStore\\skinet\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "E:\\C# Angular store\\skinet\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "E:\\CSharpAngularStore\\skinet\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Milos\\.nuget\\packages\\",
-      "outputPath": "E:\\C# Angular store\\skinet\\Infrastructure\\obj\\",
+      "outputPath": "E:\\CSharpAngularStore\\skinet\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Milos\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1499,8 +1499,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "E:\\C# Angular store\\skinet\\Core\\Core.csproj": {
-              "projectPath": "E:\\C# Angular store\\skinet\\Core\\Core.csproj"
+            "E:\\CSharpAngularStore\\skinet\\Core\\Core.csproj": {
+              "projectPath": "E:\\CSharpAngularStore\\skinet\\Core\\Core.csproj"
             }
           }
         }
